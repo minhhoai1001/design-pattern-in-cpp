@@ -1,6 +1,6 @@
-#include "include/PaintingTarget.h"
+#include "../include/PaintingTarget.h"
 
 PaintingTarget::~PaintingTarget()
 {
-    
+
 }

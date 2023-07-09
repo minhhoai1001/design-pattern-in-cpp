@@ -1,6 +1,6 @@
-#include "include/Command.h"
+#include "../include/Command.h"
 
 Command::~Command()
 {
-    
+
 }

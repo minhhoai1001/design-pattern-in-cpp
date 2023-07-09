@@ -97,3 +97,11 @@ Simple drawing application:
 - Use the Command pattern when you want to parametrize objects with operations.
 - Use the Command pattern when you want to queue operations, schedule their execution, or execute them remotely.
 - Use the Command pattern when you want to implement reversible operations.
+
+
+## [How to build in Visual Studio](https://www.youtube.com/watch?v=HcxlYkU8aY0&t=103s)
+
+- Install C++/CLI support for v143 build tool (WinForms in C++)
+- Create CLR Empty Project (.NET Framework) with Console.
+- Configure Linker-Advance: Entry Point-main.
+- [Reference](https://www.youtube.com/watch?v=HcxlYkU8aY0&t=103s)

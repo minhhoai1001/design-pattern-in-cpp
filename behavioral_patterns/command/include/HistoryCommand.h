@@ -6,7 +6,7 @@
 
 using namespace std;
 
-class HistoryCommand: public Command
+class HistoryCommand : public Command
 {
 private:
     vector<Command*> past_commands;

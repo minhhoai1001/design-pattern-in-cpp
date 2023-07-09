@@ -1,4 +1,4 @@
-#include "include/HistoryCommand.h"
+#include "../include/HistoryCommand.h"
 
 HistoryCommand::HistoryCommand()
 {

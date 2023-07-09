@@ -6,7 +6,7 @@
 
 using namespace System::Windows::Forms;
 
-class PaintingCanvas: public PaintingTarget
+class PaintingCanvas : public PaintingTarget
 {
 private:
     msclr::gcroot<PictureBox^> picture_box;
@@ -17,7 +17,7 @@ public:
 
     ~PaintingCanvas();
 
-    void paint(const double x, const double y);
+    void paint(const double x, const double y) const;
 
     void clear();
 };

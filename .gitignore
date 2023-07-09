@@ -1,3 +1,8 @@
 ./creational_patterns/abstract_factory/.vscode
 ./creational_patterns/.vscode
 .vscode
+behavioral_patterns/.vs
+behavioral_patterns/command/.vs
+behavioral_patterns/command/x64/
+behavioral_patterns/command/command.sln
+behavioral_patterns/command/command.vcxproj.user

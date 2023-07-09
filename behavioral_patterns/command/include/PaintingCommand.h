@@ -4,7 +4,7 @@
 #include "Command.h"
 #include "PaintingTarget.h"
 
-class PaintingCommand: public Command
+class PaintingCommand : public Command
 {
 private:
     const double painting_pos_x;
